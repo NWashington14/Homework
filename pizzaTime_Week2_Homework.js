@@ -2,8 +2,8 @@ let pizzaPlace = "Spider-man Pizza Place";
 
 let numberOfToppings = 10;
 
-console.log(typeof pizzaPlace);
-console.log(typeof numberOfToppings);
+typeof pizzaPlace;
+typeof numberOfToppings;
 
 console.log(`Welcome to ${pizzaPlace}. We have ${numberOfToppings} different type of of toppings.`);
 
