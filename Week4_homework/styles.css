@@ -1,0 +1,23 @@
+.story {
+  padding: 50px;
+  margin: 50px;
+  color: red;
+}
+
+h1 {
+  color: blueviolet;
+}
+
+h2#bird {
+  color: chartreuse;
+}
+
+li {
+  border: 10px;
+  background-color: blue;
+}
+
+#Doctor {
+  padding: 150px;
+  margin: 150px;
+}
